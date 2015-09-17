@@ -1,4 +1,4 @@
-#Welcome to P3 Placeholder
+#Welcome to P3 Placeholder 
 
 ## Live URL
 <http://p3.strack-works.com>
